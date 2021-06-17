@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Cristiano"
+    },
+    {
+      "id": 2,
+      "name": "Marcelo"
+    },
+    {
+      "id": 3,
+      "name": "Ana"
+    },
+    {
+      "id": 4,
+      "name": "Beatriz"
+    },
+    {
+      "id": 5,
+      "name": "Daniel"
+    },
+    {
+      "id": 6,
+      "name": "Elisangela"
+    },
+    {
+      "id": 7,
+      "name": "Fabricio"
+    },
+    {
+      "id": 8,
+      "name": "Gabriel"
+    },
+    {
+      "id": 9,
+      "name": "Helton"
+    },
+    {
+      "id": 10,
+      "name": "Iego"
+    }
+  ]
+}
